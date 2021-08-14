@@ -19,7 +19,7 @@ Please adhere to this project's `code of conduct`.
 To install this package run
 
 ```bash
-  pip install multilabel
+  pip install multilabeler
 ```
 
   
@@ -36,7 +36,7 @@ If you have any feedback, please reach out to me at owodunniabraham@gmail.com
 
 [Notebook](https://github.com/owos/Multilabel/blob/main/use_case_of_mutlilabel.ipynb)
 ```bash
-  from multilabel import BilableClassifier
+  from multilabeler import BilableClassifier
   model = BilableClassifier(xgboost())
 ```
   
