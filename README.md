@@ -1,5 +1,5 @@
 
-# Project Title
+# Multilabeler
 
 This is a package that takes in X and y as training data and predicts two outputs as y1 and y2 for any given test data.
 This package removes the limitation of just have one target feature in machine learning.
